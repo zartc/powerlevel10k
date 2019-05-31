@@ -79,11 +79,11 @@ function _p9k_init_icons() {
         LINUX_SABAYON_ICON             $'\uE271'              # 
         LINUX_SLACKWARE_ICON           $'\uE271'              # 
         SUNOS_ICON                     $'\U1F31E '            # 🌞
-        HOME_ICON                      $'\uE12C'              # 
-        HOME_SUB_ICON                  $'\uE18D'              # 
-        FOLDER_ICON                    $'\uE818'              # 
+        HOME_ICON                      $'\uE12C '             # 
+        HOME_SUB_ICON                  $'\uE18D '             # 
+        FOLDER_ICON                    $'\uE818 '             # 
         NETWORK_ICON                   $'\uE1AD'              # 
-        ETC_ICON                       $'\uE82F'              # 
+        ETC_ICON                       $'\uE82F '             # 
         LOAD_ICON                      $'\uE190 '             # 
         SWAP_ICON                      $'\uE87D'              # 
         RAM_ICON                       $'\uE1E2 '             # 
@@ -182,9 +182,9 @@ function _p9k_init_icons() {
         LINUX_SABAYON_ICON             $'\uF17C'              # 
         LINUX_SLACKWARE_ICON           $'\uF17C'              # 
         SUNOS_ICON                     $'\uF185 '             # 
-        HOME_ICON                      $'\uF015'              # 
-        HOME_SUB_ICON                  $'\uF07C'              # 
-        FOLDER_ICON                    $'\uF115'              # 
+        HOME_ICON                      $'\uF015 '             # 
+        HOME_SUB_ICON                  $'\uF07C '             # 
+        FOLDER_ICON                    $'\uF115 '             # 
         ETC_ICON                       $'\uF013 '             # 
         NETWORK_ICON                   $'\uF09E'              # 
         LOAD_ICON                      $'\uF080 '             # 
@@ -287,9 +287,9 @@ function _p9k_init_icons() {
         LINUX_SABAYON_ICON             '\u'$CODEPOINT_OF_AWESOME_LINUX                # 
         LINUX_SLACKWARE_ICON           '\u'$CODEPOINT_OF_AWESOME_LINUX                # 
         SUNOS_ICON                     '\u'$CODEPOINT_OF_AWESOME_SUN_O' '             # 
-        HOME_ICON                      '\u'$CODEPOINT_OF_AWESOME_HOME                 # 
-        HOME_SUB_ICON                  '\u'$CODEPOINT_OF_AWESOME_FOLDER_OPEN          # 
-        FOLDER_ICON                    '\u'$CODEPOINT_OF_AWESOME_FOLDER_O             # 
+        HOME_ICON                      '\u'$CODEPOINT_OF_AWESOME_HOME' '              # 
+        HOME_SUB_ICON                  '\u'$CODEPOINT_OF_AWESOME_FOLDER_OPEN' '       # 
+        FOLDER_ICON                    '\u'$CODEPOINT_OF_AWESOME_FOLDER_O' '          # 
         ETC_ICON                       '\u'$CODEPOINT_OF_AWESOME_COG' '               # 
         NETWORK_ICON                   '\u'$CODEPOINT_OF_AWESOME_RSS                  # 
         LOAD_ICON                      '\u'$CODEPOINT_OF_AWESOME_BAR_CHART' '         # 
@@ -386,10 +386,10 @@ function _p9k_init_icons() {
         LINUX_UBUNTU_ICON              $'\uF31b'              # 
         LINUX_ICON                     $'\uF17C'              # 
         SUNOS_ICON                     $'\uF185 '             # 
-        HOME_ICON                      $'\uF015'              # 
-        HOME_SUB_ICON                  $'\uF07C'              # 
-        FOLDER_ICON                    $'\uF115'              # 
-        ETC_ICON                       $'\uF013'              # 
+        HOME_ICON                      $'\uF015 '             # 
+        HOME_SUB_ICON                  $'\uF07C '             # 
+        FOLDER_ICON                    $'\uF115 '             # 
+        ETC_ICON                       $'\uF013 '             # 
         NETWORK_ICON                   $'\uF1EB'              # 
         LOAD_ICON                      $'\uF080 '             # 
         SWAP_ICON                      $'\uF464'              # 
@@ -488,7 +488,7 @@ function _p9k_init_icons() {
         HOME_ICON                      ''
         HOME_SUB_ICON                  ''
         FOLDER_ICON                    ''
-        ETC_ICON                       $'\u2699'              # ⚙
+        ETC_ICON                       $'\u2699 '              # ⚙
         NETWORK_ICON                   'IP'
         LOAD_ICON                      'L'
         SWAP_ICON                      'SWP'
