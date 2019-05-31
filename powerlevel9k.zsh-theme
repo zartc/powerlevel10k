@@ -915,8 +915,7 @@ prompt_dir() {
   else
     case $PWD in
       /etc|/etc/*) state=ETC;            icon=ETC_ICON;;
-      ~)           state=HOME;           icon=HOME_ICON;;
-      ~/*)         state=HOME_SUBFOLDER; icon=HOME_SUB_ICON;;
+      ~ | ~/*)     state=HOME;           icon=HOME_ICON;;
       *)           state=DEFAULT;        icon=FOLDER_ICON;;
     esac
   fi
